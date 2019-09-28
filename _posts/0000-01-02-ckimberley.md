@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Blah blah blah lets get this thing merged to master!!!
 Use the left arrow to go back!
